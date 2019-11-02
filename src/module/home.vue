@@ -1,7 +1,7 @@
 <template>
     <div>
         <div @click="openNewPage_one">home</div>
-        <div @click="textAxios">444</div>
+        <div @click="textAxios">425555</div>
     </div>
 
 </template>
